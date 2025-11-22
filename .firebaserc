@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "skilllab-88178": {
+      "hosting": {
+        "skill-lab": [
+          "skill-lab"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
